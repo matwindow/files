@@ -10,9 +10,9 @@
 
 _Bold 2_
 
-[Link](google.com)
+[Link](https://google.com)
 
-[Link With Context](google.com "Context")
+[Link With Context](https://google.com "Context")
 
 [Anchor](#1-H1)
 
@@ -34,4 +34,6 @@ ___
 2. Item 2
 3. Item 3
 
-![Alt Text](placeholder.png "Title")
+Image![Alt Text](placeholder.png "Title")
+
+Image With Link (Button)[![Alt Text](placeholder.png "Title")](https://google.com)
