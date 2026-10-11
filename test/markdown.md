@@ -8,7 +8,7 @@
 
 **Bold**
 
-_Bold 2_
+__Bold 2__
 
 [Link](https://google.com)
 
